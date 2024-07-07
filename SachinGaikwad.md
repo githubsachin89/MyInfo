@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm  Durgesh kumar prajapati</h1>
-<h3 align="center">Aspiring Java,And Software Automation testing  </h3>
+<h1 align="center">Hi 👋, I'm  Sachin Gautam Gaikwad</h1>
+<h3 align="center">Aspiring Java, Manual Testing And Software Automation testing  </h3>
 
-- ✍️ I’m currently learning ** Java,Data Analytics & Software Automation testing(Katalon) Selenium4 **
-- - 📫 How to reach me **durgeshkumar778080@gmail.com**
+- ✍️ I’m currently learning ** Java, Manual Testing & Software Automation testing(Katalon) Selenium4 **
+- - 📫 How to reach me **gaikwadsachin@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3><p align="left">
