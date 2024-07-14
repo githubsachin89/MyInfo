@@ -2,11 +2,11 @@
 <h3 align="center">Aspiring Java, Manual Testing And Software Automation testing  </h3>
 
 - ✍️ I’m currently learning ** Java, Manual Testing & Software Automation testing(Katalon) Selenium4 **
-- - 📫 How to reach me **gaikwadsachin@gmail.com**
+- - 📫 How to reach me **gaikwadsachin.989@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3><p align="left">
-  <a href="https://linkedin.com/in/SachinGaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachin-Gaikwad" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/sachin-gaikwad-b2377b254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sachin-Gaikwad" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/durgeshkumar7781" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="durgesh-prajapati" height="30" width="40" /></a>
 </p>
 
